@@ -1,6 +1,6 @@
 # 🧩Algorithms-Problem-Solving-Level-4
 🚀 Advanced Algorithms & Problem Solving 🧠
-This repository features 50 algorithm challenges solved in C++ from the "Algorithms and Problem Solving" course led by Dr. Mohammed Abu-Hadhoud.
+This repository features 65 algorithm challenges solved in C++ from the "Algorithms and Problem Solving" course led by Dr. Mohammed Abu-Hadhoud.
 
 Key Focus Areas:
 

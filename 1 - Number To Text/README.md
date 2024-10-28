@@ -1,40 +1,40 @@
 # 🔢 Problem: Number to Text Converter
 
 ## 📝 Description
-Ce programme C++ convertit un nombre entier saisi par l'utilisateur en son équivalent en toutes lettres (texte). Par exemple, un nombre comme `1234` sera transformé en "One Thousand Two Hundred Thirty-Four". Il gère les nombres jusqu'à des milliards.
+This C++ program converts an integer entered by the user into its textual equivalent. For example, a number like `1234` will be converted to "One Thousand Two Hundred Thirty-Four". It handles numbers up to billions.
 
-Le programme inclut les fonctionnalités suivantes :
-- 🔹 `Read_Number` : Demande à l'utilisateur d'entrer un nombre et le retourne.
-- 🔹 `Number_To_Text` : Convertit le nombre en texte, prenant en charge différents niveaux (unités, dizaines, centaines, milliers, millions, et milliards).
+The program includes the following features:
+- 🔹 `Read_Number`: Prompts the user to enter a number and returns it.
+- 🔹 `Number_To_Text`: Converts the number into text, supporting various levels (units, tens, hundreds, thousands, millions, and billions).
 
-## 💡 Explication du Code
+## 💡 Code Explanation
 
-- **📥 Fonction `Read_Number`** : 
-  - Cette fonction invite l'utilisateur à entrer un nombre. Elle utilise `cin` pour capturer l'entrée et retourne le nombre saisi sous forme de `long long int` pour gérer de grandes valeurs.
-  - 🖥️ Affiche le message : "Please Enter A Number Mr.Taha : "
+- **📥 Function `Read_Number`**:
+  - This function prompts the user to enter a number. It uses `cin` to capture the input and returns the entered number as a `long long int` to handle large values.
+  - 🖥️ Displays the message: "Please Enter A Number Mr.Taha: "
 
-- **🔠 Fonction `Number_To_Text`** :
-  - Cette fonction utilise plusieurs conditions pour transformer un nombre entier en texte. Elle contient des tableaux de chaînes pour les unités et les dizaines spéciales.
+- **🔠 Function `Number_To_Text`**:
+  - This function uses several conditions to transform an integer into text. It includes string arrays for special units and tens.
   
-  - **🧮 Cas 0 - 19** : Gère les nombres de zéro à dix-neuf en utilisant un tableau (`Arr[]`) qui mappe directement les nombres à leur version en texte. Si le nombre est dans cette plage, il retourne simplement la chaîne correspondante.
+  - **🧮 Case 0 - 19**: Handles numbers from zero to nineteen by using an array (`Arr[]`) that directly maps the numbers to their textual representation. If the number is within this range, it simply returns the corresponding string.
   
-  - **🧮 Cas 20 - 99** : Gère les nombres de vingt à quatre-vingt-dix-neuf. Divise le nombre pour obtenir les dizaines, puis appelle `Number_To_Text` de manière récursive pour ajouter les unités restantes (si elles existent).
+  - **🧮 Case 20 - 99**: Handles numbers from twenty to ninety-nine. It divides the number to get the tens and then recursively calls `Number_To_Text` to add any remaining units (if they exist).
 
-  - **🧮 Cas 100 - 999** : Gère les centaines. Divise le nombre pour obtenir la centaine, puis appelle de manière récursive `Number_To_Text` pour les dizaines et unités.
+  - **🧮 Case 100 - 999**: Handles hundreds. It divides the number to get the hundreds place and then recursively calls `Number_To_Text` for tens and units.
 
-  - **🧮 Cas 1,000 - 999,999** : Gère les milliers en divisant par 1 000. Appelle `Number_To_Text` pour les centaines restantes.
+  - **🧮 Case 1,000 - 999,999**: Handles thousands by dividing by 1,000. Calls `Number_To_Text` for the remaining hundreds.
 
-  - **🧮 Cas 1,000,000 - 999,999,999** : Gère les millions. Divise le nombre par 1 000 000 et appelle `Number_To_Text` pour le reste.
+  - **🧮 Case 1,000,000 - 999,999,999**: Handles millions. It divides the number by 1,000,000 and calls `Number_To_Text` for the remainder.
 
-  - **🧮 Cas 1,000,000,000 et plus** : Gère les milliards et plus en divisant par 1 000 000 000 et utilise une récursion pour obtenir la partie restante.
+  - **🧮 Case 1,000,000,000 and above**: Handles billions and higher by dividing by 1,000,000,000 and uses recursion to get the remaining part.
 
-- **🖥️ Fonction `main`** :
-  - Change la couleur de la console en utilisant `system("color f3")` pour améliorer la lisibilité.
-  - Appelle `Read_Number` pour capturer le nombre.
-  - Affiche le résultat de la conversion en appelant `Number_To_Text`.
-  - Utilise `system("pause>0")` pour maintenir la console ouverte après l'affichage.
+- **🖥️ Function `main`**:
+  - Changes the console color using `system("color f3")` to improve readability.
+  - Calls `Read_Number` to capture the user's input.
+  - Displays the result of the conversion by calling `Number_To_Text`.
+  - Uses `system("pause>0")` to keep the console open after displaying the result.
 
-## ▶️ Exemple d'exécution :
-Lorsque vous entrez `1234`, le programme affiche : 
+## ▶️ Execution Example:
+When you enter `1234`, the program displays:
 ```plaintext
 One Thousand Two Hundred Thirty-Four

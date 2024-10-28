@@ -1,4 +1,4 @@
-# 🔢 Problem 3: Leap Year Checker
+# 🔢 Problem 3: Leap Year Checker(One Line Of Code)
 
 ## 📝 Description
 This C++ program checks if a user-inputted year is a leap year. A leap year occurs every four years, except for years divisible by 100 but not by 400. This program includes functions to read a year, determine if it's a leap year, and display the result.

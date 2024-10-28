@@ -1,4 +1,4 @@
-# 🔢 Problem: Number to Text Converter
+# 🔢 Problem 1: Number to Text Converter
 
 ## 📝 Description
 This C++ program converts an integer entered by the user into its textual equivalent. For example, a number like `1234` will be converted to "One Thousand Two Hundred Thirty-Four". It handles numbers up to billions.

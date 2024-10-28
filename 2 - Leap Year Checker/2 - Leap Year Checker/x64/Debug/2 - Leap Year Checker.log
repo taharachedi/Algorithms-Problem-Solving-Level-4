@@ -1,0 +1,4 @@
+﻿  2 - Leap Year Checker.cpp
+C:\Users\USER\source\repos\2 - Leap Year Checker\2 - Leap Year Checker\2 - Leap Year Checker.cpp(32,7): warning C4326: return type of 'main' should be 'int' instead of 'short'
+C:\Users\USER\source\repos\2 - Leap Year Checker\2 - Leap Year Checker\2 - Leap Year Checker.cpp(41,17): warning C4129: 'N': unrecognized character escape sequence
+  2 - Leap Year Checker.vcxproj -> C:\Users\USER\source\repos\2 - Leap Year Checker\x64\Debug\2 - Leap Year Checker.exe

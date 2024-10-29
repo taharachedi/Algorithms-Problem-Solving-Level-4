@@ -1,4 +1,4 @@
-# 🔢 Problem: Year Details Calculator
+# 🔢 Problem 4: Year Details Calculator
 
 ## 📝 Description
 This C++ program calculates various time units (days, hours, minutes, and seconds) in a given year entered by the user. It checks if the year is a leap year to determine whether it has 365 or 366 days and then uses this information to calculate the corresponding hours, minutes, and seconds.

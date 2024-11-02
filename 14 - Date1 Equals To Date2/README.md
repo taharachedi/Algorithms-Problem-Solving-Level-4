@@ -27,7 +27,6 @@
 🎯 If the user enters Date1 as "April 15, 2023" and Date2 as "April 15, 2023," the program will output:
 ```plaintext
 
-
 Please Enter A Day : 15
 Please Enter A Month : 4
 Please Enter A Year : 2023

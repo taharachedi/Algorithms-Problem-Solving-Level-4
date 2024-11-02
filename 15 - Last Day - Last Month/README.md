@@ -33,7 +33,7 @@
 
 🎯 If the user enters "February 28, 2024" (a leap year), the program will output:
 ```plaintext
-Please Enter A Day : 28
+Please Enter A Day : 29
 Please Enter A Month : 2
 Please Enter A Year : 2024
 

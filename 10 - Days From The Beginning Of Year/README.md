@@ -1,4 +1,4 @@
-# 📅 Problem 10 :Calculate Days from the Beginning of the Year 
+# 📅 Problem 10 :Days from the Beginning of the Year 
 
 This simple C++ program calculates the number of days that have passed from the beginning of a specified year up to a given date. The user is prompted to enter a day, month, and year, and the program calculates the total days based on leap year adjustments and the number of days in each month.
 

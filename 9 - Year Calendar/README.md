@@ -34,7 +34,7 @@ Below is an example output when you run the program and input the year 2024:
 Please Enter A Year: 2024
 
 ----------------    Jan    -----------
-  Sun  Mon  Tue  Wed  Thu  Fri  Sat  
+ Sun  Mon  Tue  Wed  Thu  Fri  Sat  
        1    2    3    4    5    6  
   7    8    9   10   11   12   13  
  14   15   16   17   18   19   20  
@@ -42,7 +42,7 @@ Please Enter A Year: 2024
  28   29   30   31  
 
 ----------------    Feb    -----------
-  Sun  Mon  Tue  Wed  Thu  Fri  Sat  
+ Sun  Mon  Tue  Wed  Thu  Fri  Sat  
                  1    2    3  
   4    5    6    7    8    9   10  
  11   12   13   14   15   16   17  
@@ -50,7 +50,7 @@ Please Enter A Year: 2024
  25   26   27   28   29  
 
 ----------------    Mar    -----------
-  Sun  Mon  Tue  Wed  Thu  Fri  Sat  
+ Sun  Mon  Tue  Wed  Thu  Fri  Sat  
                  1    2    3  
   4    5    6    7    8    9   10  
  11   12   13   14   15   16   17  

@@ -40,9 +40,7 @@ Please Enter A Year : 2024
 Yes, Day is Last Day in Month!
 No, Month is Not Last Month in Year!
 
-
 #For December 31:
-```plaintext
 
 Please Enter A Day : 31
 Please Enter A Month : 12

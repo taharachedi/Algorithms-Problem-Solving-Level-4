@@ -71,14 +71,14 @@ Please Enter A Year: 2023
 
 Date After:
 
-01-Adding One Day is: 26/12/2023
-02-Adding 10 Days is: 05/01/2024
-03-Adding One Week is: 12/01/2024
-04-Adding 10 Weeks is: 22/03/2024
+01-Adding One Day is  : 26/12/2023
+02-Adding 10 Days is  : 05/01/2024
+03-Adding One Week is : 12/01/2024
+04-Adding 10 Weeks is : 22/03/2024
 05-Adding One Month is: 22/04/2024
-06-Adding 5 Months is: 22/09/2024
-07-Adding One Year is: 22/09/2025
-08-Adding 10 Years is: 22/09/2035
+06-Adding 5 Months is : 22/09/2024
+07-Adding One Year is : 22/09/2025
+08-Adding 10 Years is : 22/09/2035
 09-Adding 10 Years (Faster) is: 22/09/2045
 10-Adding One Decade is: 22/09/2055
 11-Adding 10 Decades is: 22/09/2155

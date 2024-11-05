@@ -1,4 +1,4 @@
-# 📅 Problem 20 => 32: Date Manipulation Program (C++)
+# 📅 Problem 20 => 32: Increase Date
 
 > **🔄 Increment a given date by specified periods such as days, weeks, months, years, decades, and more!**
 

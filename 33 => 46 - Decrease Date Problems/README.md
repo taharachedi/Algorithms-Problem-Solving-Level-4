@@ -1,4 +1,4 @@
-# 📅 Problem 33 => 46: Decrease Date Problem
+# 📅 Problem 33 => 46: Decrease Date
 
 > **A C++ program to subtract various time units (days, weeks, months, years, etc.) from a user-provided date.**
 

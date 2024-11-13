@@ -1,4 +1,4 @@
-# 📅 Problem 61: Date Period Overlap Checker
+# 📅 Problem 61: Count Overlap Days
 
 > **A C++ program to calculate the overlap days between two date periods.**
 

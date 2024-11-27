@@ -38,7 +38,7 @@ Embark on an epic coding adventure with 65 mind-blowing C++ algorithm challenges
 - ✨ Clean code principles
 - 🔬 Performance optimization techniques
 
-## 🚀 Personal Growth Odyssey 🌈
+## 🚀 Personal Growth Odyssey 
 This course was a LEGENDARY transformation in my software development journey:
 - 🌠 Deep dive into algorithmic thinking
 - 🧩 Practical monster-slaying in complex computational challenges
@@ -68,4 +68,4 @@ Infinite gratitude to **Dr. Mohammed Abu-Hadhoud** for this TRANSFORMATIVE algor
 
 ---
 
-*Coding, Learning, Evolving - One Algorithm at a Time* 💻🧠🌈
+*Coding, Learning, Evolving - One Algorithm at a Time* 💻🧠

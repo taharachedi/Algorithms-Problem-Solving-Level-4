@@ -1,4 +1,4 @@
-# 🚀 Advanced Algorithms & Problem-Solving Journey 💻🧠
+# 🚀Algorithms Problem-Solving: Level 4 Mastery 💻🧠
 
 ## 📘 Course Overview 🎓
 Embark on an epic coding adventure with 65 mind-blowing C++ algorithm challenges! 💥 Crafted under the legendary guidance of Dr. Mohammed Abu-Hadhoud, this repository is your ultimate playground of algorithmic mastery! 🏆
